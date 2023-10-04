@@ -159,7 +159,6 @@ fieldset {
   outline: none;
 }
 
-
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #FFF;
   outline-offset: 1px;
@@ -260,6 +259,7 @@ fieldset {
   outline: 1px solid #FFF;
   outline-offset: 2px;
 }
+
 .content__card-link_current:active {
   background-color: #545050;
 }
